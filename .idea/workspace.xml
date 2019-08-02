@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fe62f0f-f66c-4a5a-ba24-36dfb72ab6a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vytrack/tests/components/activities/CalendarEventsTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/vytrack/tests/components/activities/CalendarEventsTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
-    </list>
+    <list default="true" id="4fe62f0f-f66c-4a5a-ba24-36dfb72ab6a4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +17,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/vytrack/tests/components/activities/CalendarEventsTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="360">
               <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
             </state>
           </provider>
@@ -132,8 +127,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="714" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -163,11 +158,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564705148426" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564705425189" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -333,7 +328,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41058657" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.41058657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -342,13 +337,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31084338" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.31084338" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.94578314" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" weight="0.94578314" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007153" side_tool="true" weight="0.13975903" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32771084" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -500,7 +495,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/vytrack/tests/components/activities/CalendarEventsTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="360">
           <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
         </state>
       </provider>
